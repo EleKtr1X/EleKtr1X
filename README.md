@@ -30,6 +30,11 @@
 
 ### Latest YouTube Videos: 📺
 <!-- YOUTUBE:START -->
+- [Playing some Pokemon X with TheGoofyCuber and Pocketmaster36](https://www.youtube.com/watch?v=LTVmYEYZncU)
+- [Making moosic](https://www.youtube.com/watch?v=w-pJzzpn0DQ)
+- [Something (WIP)](https://www.youtube.com/watch?v=HELIxBHYBnw)
+- [A sentient bit... | Rogue Bit](https://www.youtube.com/watch?v=t9m0-T7g4F0)
+- [EleKtr1X's BFB Camp - Episode 0F (READ DESC) (OPEN)](https://www.youtube.com/watch?v=n2f_Q-cmOqE)
 <!-- YOUTUBE:END -->
 
 <img align="left" alt="EleKtr1X's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EleKtr1X&show_icons=true&hide_border=true" />
