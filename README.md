@@ -1,5 +1,8 @@
 ### Hey there, I'm EleKtr1X! 👋
 
+<img src="https://img.shields.io/badge/i%20like%20this-blue-%230099ff"/>
+<img src="https://img.shields.io/badge/and%20this%20one-too-%23000080"/>
+
 ## I'm a musician, developer, animator, and ~~epic~~ gamer! 🎮
 - 💻 Currently learning UNIX stuff!
 - 👾 Playing retro games is a casual hobby for me!
