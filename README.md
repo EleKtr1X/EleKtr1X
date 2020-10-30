@@ -1,10 +1,10 @@
 ### Hey there, I'm EleKtr1X! 👋
 
-## I'm a musician, developer, animator, and epic gamer! 🎮
+## I'm a musician, developer, animator, and ~~epic~~ gamer! 🎮
 - 💻 Currently learning UNIX stuff!
 - 👾 Playing retro games is a casual hobby for me!
-- 🥁 I play the drums, and sometimes the clarinet!
-- 🥅 Goal: Work on my Discord bot ([support server][bot])
+- 🥁 I play the drums!
+- 🥅 Goal: Work on my Discord bot ([shameless plug for the support server][bot])
 - 🤖 Daft Punk is the best, fight me
 
 ### Connect with me: 🌎
