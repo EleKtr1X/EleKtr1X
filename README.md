@@ -13,8 +13,8 @@
 
 [My Discord bot's support server][bot]
 
-<img align="left" alt="EleKtr1X's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EleKtr1X&show_icons=true&hide_border=true&theme=prussian" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleKtr1X&layout=compact&langs_count=6&hide_border=true&theme=prussian" />
+<img align="center" alt="EleKtr1X's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EleKtr1X&show_icons=true&hide_border=true&theme=prussian" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleKtr1X&layout=compact&langs_count=6&hide_border=true&theme=prussian" />
 
 [bot]: https://discord.gg/dqV3ypQ
 [website]: https://elektr1x.github.io
