@@ -4,9 +4,9 @@
 <img src="https://img.shields.io/badge/and%20this%20one-too-%23000080"/>
 
 ### Stuff I've made:
-My website: [here][website]
+[My website][website]
 
-My Discord bot's support server: [here][website]
+[My Discord bot's support server][bot]
 <br/>
 
 ### Languages I use:
