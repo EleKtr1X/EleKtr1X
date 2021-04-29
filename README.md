@@ -4,10 +4,10 @@
 <img src="https://img.shields.io/badge/and%20this%20one-too-%23000080"/>
 
 
-[![node.js]](https://nodejs.org/)<br>
-[![javascript]](https://en.wikipedia.org/wiki/JavaScript)<br>
-[![typescript]](https://www.typescriptlang.org/)<br>
-[![ruby]](https://www.ruby-lang.org/en/)<br>
+[![node.js]](https://nodejs.org/)
+[![javascript]](https://en.wikipedia.org/wiki/JavaScript)
+[![typescript]](https://www.typescriptlang.org/)
+[![ruby]](https://www.ruby-lang.org/en/)
 
 [My website][website]
 
