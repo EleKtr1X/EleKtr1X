@@ -20,7 +20,7 @@
 
 [bot]: https://discord.gg/dqV3ypQ
 [website]: https://elektr1x.github.io
-[node.js]: https://img.shields.io/badge/node.js-339933?style=for-the-badge&labelColor=1e2122&logo=node-dot-js
+[node.js]: https://img.shields.io/badge/node.js-339933?style=for-the-badge&labelColor=1e2122&logo=nodedotjs
 [javascript]: https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&labelColor=f7df1e&logoColor=333333&logo=javascript
 [typescript]: https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&labelColor=3178c6&logoColor=white&logo=typescript
 [ruby]: https://img.shields.io/badge/ruby-cc342d?style=for-the-badge&labelColor=fad3a1&logoColor=cc342d&logo=ruby
