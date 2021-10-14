@@ -1,4 +1,4 @@
-## Hey, I'm EleKtr1X
+## Hey, I'm EleKtr1X.
 
 <img src="https://img.shields.io/badge/i%20like%20this-blue-%230099ff"/>
 <img src="https://img.shields.io/badge/and%20this%20one-too-%23000080"/>
@@ -10,11 +10,9 @@
 [![ruby]](https://www.ruby-lang.org/en/)
 [![rust]](https://www.rust-lang.org/)
 
+Currently learning [Rust](https://www.rust-lang.org/)!
 
-### Useful links
 [My website][website]
-
-[My Discord bot's support server][bot]
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=EleKtr1X&theme=prussian&show_icons=true&hide_border=true)
 ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EleKtr1X&layout=compact&langs_count=6&hide_border=true&theme=prussian)
