@@ -8,6 +8,7 @@
 [![javascript]](https://en.wikipedia.org/wiki/JavaScript)
 [![typescript]](https://www.typescriptlang.org/)
 [![ruby]](https://www.ruby-lang.org/en/)
+[![rust]](https://www.rust-lang.org/)
 
 
 ### Useful links
@@ -24,3 +25,4 @@
 [javascript]: https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&labelColor=f7df1e&logoColor=333333&logo=javascript
 [typescript]: https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&labelColor=3178c6&logoColor=white&logo=typescript
 [ruby]: https://img.shields.io/badge/ruby-cc342d?style=for-the-badge&labelColor=fad3a1&logoColor=cc342d&logo=ruby
+[rust]: https://img.shields.io/badge/rust-000000?style=for-the-badge&logoColor=ffffff&logo=rust
